@@ -1,0 +1,17 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: #52C3B9;
+  font-size: 300%;
+}
+.important {
+  font-size: 400%;
+  color: #f0c2e0
+}
+.cool{
+  font-size: 43%;
+  color: #C5D00C
+
+}
